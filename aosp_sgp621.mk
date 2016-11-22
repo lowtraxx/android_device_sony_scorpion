@@ -36,8 +36,8 @@ PRODUCT_PACKAGES += \
     power.scorpion
 
 # NFC config
-PRODUCT_PACKAGES += \
-    nfc_nci.scorpion
+# PRODUCT_PACKAGES += \
+#    nfc_nci.scorpion
 
 # Telephony Packages (AOSP)
 PRODUCT_PACKAGES += \
